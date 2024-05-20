@@ -1,4 +1,4 @@
-# CMPT_353_Project
+# Amazon Reviews Analysis
 
 ## Dependencies:
 The sentiment analysis notebook requires:
